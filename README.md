@@ -201,12 +201,5 @@ python main.py
 - YouTube downloads may require authentication cookies in some cases.
 - Chat responses are dependent on transcript quality and accuracy.
 
----
-
-## Author
-
-**Sawi Trehan**
-
-B.Tech Student | Data Analytics & Generative AI Enthusiast
 
 ---
